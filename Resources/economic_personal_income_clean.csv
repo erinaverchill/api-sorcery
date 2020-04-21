@@ -1,0 +1,451 @@
+Education Level,Year,Age,Gender,Personal Income,Population Count
+Less than high school,2012-01-01,00 to 17,Male,No Income,
+Less than high school,2012-01-01,00 to 17,Male,No Income,705113.0
+Less than high school,2012-01-01,00 to 17,Male,"5,000 - 9,999",28609.0
+Less than high school,2012-01-01,00 to 17,Male,"10,000 - 14,000",4166.0
+Less than high school,2012-01-01,00 to 17,Male,"15,000 - 24,999",9647.0
+Less than high school,2012-01-01,00 to 17,Male,"25,000 - 34,999",1104.0
+Less than high school,2012-01-01,00 to 17,Male,"35,000 - 49,999",1636.0
+High school diploma or equivalent,2012-01-01,00 to 17,Male,No Income,
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Male,No Income,
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Male,"10,000 - 14,000",3208.0
+Bachelor's degree or higher,2012-01-01,00 to 17,Male,No Income,1680.0
+Less than high school,2012-01-01,00 to 17,Female,No Income,
+Less than high school,2012-01-01,00 to 17,Female,No Income,641084.0
+Less than high school,2012-01-01,00 to 17,Female,"5,000 - 9,999",27841.0
+Less than high school,2012-01-01,00 to 17,Female,"10,000 - 14,000",5318.0
+Less than high school,2012-01-01,00 to 17,Female,"15,000 - 24,999",2075.0
+Less than high school,2012-01-01,00 to 17,Female,"75,000 and over",1553.0
+High school diploma or equivalent,2012-01-01,00 to 17,Female,No Income,6291.0
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Female,No Income,4102.0
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Female,"5,000 - 9,999",1871.0
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Female,"10,000 - 14,000",2046.0
+"Some college, less than 4-yr degree",2012-01-01,00 to 17,Female,"15,000 - 24,999",1198.0
+Bachelor's degree or higher,2012-01-01,00 to 17,Female,No Income,
+Bachelor's degree or higher,2012-01-01,00 to 17,Female,"25,000 - 34,999",1198.0
+Less than high school,2012-01-01,18 to 64,Male,No Income,357363.0
+Less than high school,2012-01-01,18 to 64,Male,"5,000 - 9,999",234399.0
+Less than high school,2012-01-01,18 to 64,Male,"10,000 - 14,000",296619.0
+Less than high school,2012-01-01,18 to 64,Male,"15,000 - 24,999",478466.0
+Less than high school,2012-01-01,18 to 64,Male,"25,000 - 34,999",285220.0
+Less than high school,2012-01-01,18 to 64,Male,"35,000 - 49,999",220388.0
+Less than high school,2012-01-01,18 to 64,Male,"50,000 - 74,999",85944.0
+Less than high school,2012-01-01,18 to 64,Male,"75,000 and over",37162.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,No Income,453889.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"5,000 - 9,999",223998.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"10,000 - 14,000",291838.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"15,000 - 24,999",533300.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"25,000 - 34,999",403456.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"35,000 - 49,999",430104.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"50,000 - 74,999",387094.0
+High school diploma or equivalent,2012-01-01,18 to 64,Male,"75,000 and over",168064.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,No Income,385337.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"5,000 - 9,999",295051.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"10,000 - 14,000",254478.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"15,000 - 24,999",457806.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"25,000 - 34,999",366349.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"35,000 - 49,999",438565.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"50,000 - 74,999",449158.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Male,"75,000 and over",477728.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,No Income,143162.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"5,000 - 9,999",84310.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"10,000 - 14,000",92147.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"15,000 - 24,999",226292.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"25,000 - 34,999",229693.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"35,000 - 49,999",402570.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"50,000 - 74,999",552522.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Male,"75,000 and over",1511773.0
+Less than high school,2012-01-01,18 to 64,Female,No Income,719609.0
+Less than high school,2012-01-01,18 to 64,Female,"5,000 - 9,999",279793.0
+Less than high school,2012-01-01,18 to 64,Female,"10,000 - 14,000",249688.0
+Less than high school,2012-01-01,18 to 64,Female,"15,000 - 24,999",335644.0
+Less than high school,2012-01-01,18 to 64,Female,"25,000 - 34,999",98037.0
+Less than high school,2012-01-01,18 to 64,Female,"35,000 - 49,999",31925.0
+Less than high school,2012-01-01,18 to 64,Female,"50,000 - 74,999",7581.0
+Less than high school,2012-01-01,18 to 64,Female,"75,000 and over",4142.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,No Income,569172.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"5,000 - 9,999",289183.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"10,000 - 14,000",285836.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"15,000 - 24,999",478261.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"25,000 - 34,999",317656.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"35,000 - 49,999",255299.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"50,000 - 74,999",132765.0
+High school diploma or equivalent,2012-01-01,18 to 64,Female,"75,000 and over",55907.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,No Income,544361.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"5,000 - 9,999",375121.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"10,000 - 14,000",364362.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"15,000 - 24,999",609758.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"25,000 - 34,999",456854.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"35,000 - 49,999",471354.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"50,000 - 74,999",340166.0
+"Some college, less than 4-yr degree",2012-01-01,18 to 64,Female,"75,000 and over",200267.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,No Income,337101.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"5,000 - 9,999",181728.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"10,000 - 14,000",147701.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"15,000 - 24,999",283574.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"25,000 - 34,999",310527.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"35,000 - 49,999",485498.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"50,000 - 74,999",684421.0
+Bachelor's degree or higher,2012-01-01,18 to 64,Female,"75,000 and over",829905.0
+Less than high school,2012-01-01,65 to 80+,Male,No Income,43797.0
+Less than high school,2012-01-01,65 to 80+,Male,"5,000 - 9,999",66775.0
+Less than high school,2012-01-01,65 to 80+,Male,"10,000 - 14,000",87788.0
+Less than high school,2012-01-01,65 to 80+,Male,"15,000 - 24,999",75781.0
+Less than high school,2012-01-01,65 to 80+,Male,"25,000 - 34,999",38125.0
+Less than high school,2012-01-01,65 to 80+,Male,"35,000 - 49,999",19530.0
+Less than high school,2012-01-01,65 to 80+,Male,"50,000 - 74,999",12515.0
+Less than high school,2012-01-01,65 to 80+,Male,"75,000 and over",7813.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,No Income,
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"5,000 - 9,999",34505.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"10,000 - 14,000",42768.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"15,000 - 24,999",122757.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"25,000 - 34,999",63083.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"35,000 - 49,999",62391.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"50,000 - 74,999",21505.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Male,"75,000 and over",21430.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,No Income,6274.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"5,000 - 9,999",27496.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"10,000 - 14,000",62706.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"15,000 - 24,999",106452.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"25,000 - 34,999",81133.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"35,000 - 49,999",74258.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"50,000 - 74,999",61326.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Male,"75,000 and over",59412.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,No Income,14562.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"5,000 - 9,999",16823.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"10,000 - 14,000",39590.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"15,000 - 24,999",106794.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"25,000 - 34,999",107542.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"35,000 - 49,999",91063.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"50,000 - 74,999",136530.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Male,"75,000 and over",207930.0
+Less than high school,2012-01-01,65 to 80+,Female,No Income,78939.0
+Less than high school,2012-01-01,65 to 80+,Female,"5,000 - 9,999",171363.0
+Less than high school,2012-01-01,65 to 80+,Female,"10,000 - 14,000",128893.0
+Less than high school,2012-01-01,65 to 80+,Female,"15,000 - 24,999",93246.0
+Less than high school,2012-01-01,65 to 80+,Female,"25,000 - 34,999",8966.0
+Less than high school,2012-01-01,65 to 80+,Female,"35,000 - 49,999",9325.0
+Less than high school,2012-01-01,65 to 80+,Female,"50,000 - 74,999",9308.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,No Income,40812.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"5,000 - 9,999",138731.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"10,000 - 14,000",168905.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"15,000 - 24,999",202994.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"25,000 - 34,999",65999.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"35,000 - 49,999",43410.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"50,000 - 74,999",35359.0
+High school diploma or equivalent,2012-01-01,65 to 80+,Female,"75,000 and over",26205.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,No Income,28392.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"5,000 - 9,999",57101.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"10,000 - 14,000",103317.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"15,000 - 24,999",146503.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"25,000 - 34,999",84364.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"35,000 - 49,999",34919.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"50,000 - 74,999",43737.0
+"Some college, less than 4-yr degree",2012-01-01,65 to 80+,Female,"75,000 and over",23888.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,No Income,11184.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"5,000 - 9,999",61123.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"10,000 - 14,000",71204.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"15,000 - 24,999",81556.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"25,000 - 34,999",68744.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"35,000 - 49,999",99010.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"50,000 - 74,999",75288.0
+Bachelor's degree or higher,2012-01-01,65 to 80+,Female,"75,000 and over",71088.0
+Less than high school,2013-01-01,00 to 17,Male,No Income,
+Less than high school,2013-01-01,00 to 17,Male,No Income,660627.0
+Less than high school,2013-01-01,00 to 17,Male,"5,000 - 9,999",14929.0
+Less than high school,2013-01-01,00 to 17,Male,"10,000 - 14,000",4907.0
+Less than high school,2013-01-01,00 to 17,Male,"15,000 - 24,999",6336.0
+Less than high school,2013-01-01,00 to 17,Male,"25,000 - 34,999",1435.0
+High school diploma or equivalent,2013-01-01,00 to 17,Male,No Income,
+High school diploma or equivalent,2013-01-01,00 to 17,Male,"5,000 - 9,999",1405.0
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Male,"5,000 - 9,999",
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Male,"10,000 - 14,000",2212.0
+Less than high school,2013-01-01,00 to 17,Female,No Income,
+Less than high school,2013-01-01,00 to 17,Female,No Income,652219.0
+Less than high school,2013-01-01,00 to 17,Female,"5,000 - 9,999",21792.0
+Less than high school,2013-01-01,00 to 17,Female,"10,000 - 14,000",10299.0
+Less than high school,2013-01-01,00 to 17,Female,"15,000 - 24,999",5073.0
+High school diploma or equivalent,2013-01-01,00 to 17,Female,No Income,8651.0
+High school diploma or equivalent,2013-01-01,00 to 17,Female,"5,000 - 9,999",8226.0
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Female,No Income,4419.0
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Female,"10,000 - 14,000",1956.0
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Female,"15,000 - 24,999",1689.0
+"Some college, less than 4-yr degree",2013-01-01,00 to 17,Female,"35,000 - 49,999",1283.0
+Bachelor's degree or higher,2013-01-01,00 to 17,Female,"15,000 - 24,999",
+Less than high school,2013-01-01,18 to 64,Male,No Income,348812.0
+Less than high school,2013-01-01,18 to 64,Male,"5,000 - 9,999",209881.0
+Less than high school,2013-01-01,18 to 64,Male,"10,000 - 14,000",248722.0
+Less than high school,2013-01-01,18 to 64,Male,"15,000 - 24,999",473160.0
+Less than high school,2013-01-01,18 to 64,Male,"25,000 - 34,999",287918.0
+Less than high school,2013-01-01,18 to 64,Male,"35,000 - 49,999",163709.0
+Less than high school,2013-01-01,18 to 64,Male,"50,000 - 74,999",86281.0
+Less than high school,2013-01-01,18 to 64,Male,"75,000 and over",30760.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,No Income,372961.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"5,000 - 9,999",184943.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"10,000 - 14,000",258773.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"15,000 - 24,999",425530.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"25,000 - 34,999",438925.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"35,000 - 49,999",456199.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"50,000 - 74,999",334524.0
+High school diploma or equivalent,2013-01-01,18 to 64,Male,"75,000 and over",235147.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,No Income,356010.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"5,000 - 9,999",258589.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"10,000 - 14,000",287720.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"15,000 - 24,999",502982.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"25,000 - 34,999",432793.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"35,000 - 49,999",473400.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"50,000 - 74,999",449846.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Male,"75,000 and over",490899.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,No Income,138459.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"5,000 - 9,999",67986.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"10,000 - 14,000",125136.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"15,000 - 24,999",252257.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"25,000 - 34,999",282909.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"35,000 - 49,999",405494.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"50,000 - 74,999",599541.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Male,"75,000 and over",1643095.0
+Less than high school,2013-01-01,18 to 64,Female,No Income,637445.0
+Less than high school,2013-01-01,18 to 64,Female,"5,000 - 9,999",225537.0
+Less than high school,2013-01-01,18 to 64,Female,"10,000 - 14,000",229231.0
+Less than high school,2013-01-01,18 to 64,Female,"15,000 - 24,999",284092.0
+Less than high school,2013-01-01,18 to 64,Female,"25,000 - 34,999",99143.0
+Less than high school,2013-01-01,18 to 64,Female,"35,000 - 49,999",52571.0
+Less than high school,2013-01-01,18 to 64,Female,"50,000 - 74,999",15944.0
+Less than high school,2013-01-01,18 to 64,Female,"75,000 and over",3886.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,No Income,664769.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"5,000 - 9,999",245728.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"10,000 - 14,000",265604.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"15,000 - 24,999",466935.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"25,000 - 34,999",293672.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"35,000 - 49,999",238689.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"50,000 - 74,999",134465.0
+High school diploma or equivalent,2013-01-01,18 to 64,Female,"75,000 and over",61381.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,No Income,531822.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"5,000 - 9,999",380107.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"10,000 - 14,000",384072.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"15,000 - 24,999",617513.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"25,000 - 34,999",453189.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"35,000 - 49,999",497833.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"50,000 - 74,999",399381.0
+"Some college, less than 4-yr degree",2013-01-01,18 to 64,Female,"75,000 and over",200690.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,No Income,325064.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"5,000 - 9,999",199405.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"10,000 - 14,000",160795.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"15,000 - 24,999",350595.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"25,000 - 34,999",340393.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"35,000 - 49,999",510047.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"50,000 - 74,999",675331.0
+Bachelor's degree or higher,2013-01-01,18 to 64,Female,"75,000 and over",917079.0
+Less than high school,2013-01-01,65 to 80+,Male,No Income,32602.0
+Less than high school,2013-01-01,65 to 80+,Male,"5,000 - 9,999",75138.0
+Less than high school,2013-01-01,65 to 80+,Male,"10,000 - 14,000",102504.0
+Less than high school,2013-01-01,65 to 80+,Male,"15,000 - 24,999",59541.0
+Less than high school,2013-01-01,65 to 80+,Male,"25,000 - 34,999",23400.0
+Less than high school,2013-01-01,65 to 80+,Male,"35,000 - 49,999",21275.0
+Less than high school,2013-01-01,65 to 80+,Male,"50,000 - 74,999",24001.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,No Income,13764.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"5,000 - 9,999",41378.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"10,000 - 14,000",53241.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"15,000 - 24,999",112400.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"25,000 - 34,999",74106.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"35,000 - 49,999",52529.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"50,000 - 74,999",26962.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Male,"75,000 and over",26720.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,No Income,4295.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"5,000 - 9,999",21398.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"10,000 - 14,000",38857.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"15,000 - 24,999",121937.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"25,000 - 34,999",90111.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"35,000 - 49,999",86950.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"50,000 - 74,999",72542.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Male,"75,000 and over",70476.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,No Income,24761.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"5,000 - 9,999",33040.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"10,000 - 14,000",40105.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"15,000 - 24,999",125756.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"25,000 - 34,999",89569.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"35,000 - 49,999",88804.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"50,000 - 74,999",122689.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Male,"75,000 and over",250033.0
+Less than high school,2013-01-01,65 to 80+,Female,No Income,70893.0
+Less than high school,2013-01-01,65 to 80+,Female,"5,000 - 9,999",150694.0
+Less than high school,2013-01-01,65 to 80+,Female,"10,000 - 14,000",177955.0
+Less than high school,2013-01-01,65 to 80+,Female,"15,000 - 24,999",46652.0
+Less than high school,2013-01-01,65 to 80+,Female,"25,000 - 34,999",11131.0
+Less than high school,2013-01-01,65 to 80+,Female,"35,000 - 49,999",8609.0
+Less than high school,2013-01-01,65 to 80+,Female,"50,000 - 74,999",7600.0
+Less than high school,2013-01-01,65 to 80+,Female,"75,000 and over",3026.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,No Income,43226.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"5,000 - 9,999",112957.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"10,000 - 14,000",194765.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"15,000 - 24,999",221218.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"25,000 - 34,999",36333.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"35,000 - 49,999",29427.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"50,000 - 74,999",20412.0
+High school diploma or equivalent,2013-01-01,65 to 80+,Female,"75,000 and over",8493.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,No Income,13731.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"5,000 - 9,999",85075.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"10,000 - 14,000",131819.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"15,000 - 24,999",181219.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"25,000 - 34,999",56178.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"35,000 - 49,999",49614.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"50,000 - 74,999",57827.0
+"Some college, less than 4-yr degree",2013-01-01,65 to 80+,Female,"75,000 and over",39607.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,No Income,29147.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"5,000 - 9,999",48558.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"10,000 - 14,000",87412.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"15,000 - 24,999",94601.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"25,000 - 34,999",58537.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"35,000 - 49,999",49722.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"50,000 - 74,999",70534.0
+Bachelor's degree or higher,2013-01-01,65 to 80+,Female,"75,000 and over",94383.0
+Less than high school,2014-01-01,00 to 17,Male,No Income,
+Less than high school,2014-01-01,00 to 17,Male,No Income,610313.0
+Less than high school,2014-01-01,00 to 17,Male,"5,000 - 9,999",26380.0
+Less than high school,2014-01-01,00 to 17,Male,"10,000 - 14,000",11857.0
+Less than high school,2014-01-01,00 to 17,Male,"15,000 - 24,999",3920.0
+High school diploma or equivalent,2014-01-01,00 to 17,Male,No Income,15741.0
+High school diploma or equivalent,2014-01-01,00 to 17,Male,"5,000 - 9,999",2048.0
+High school diploma or equivalent,2014-01-01,00 to 17,Male,"10,000 - 14,000",4355.0
+"Some college, less than 4-yr degree",2014-01-01,00 to 17,Male,"15,000 - 24,999",1664.0
+Less than high school,2014-01-01,00 to 17,Female,No Income,
+Less than high school,2014-01-01,00 to 17,Female,No Income,639596.0
+Less than high school,2014-01-01,00 to 17,Female,"5,000 - 9,999",15795.0
+Less than high school,2014-01-01,00 to 17,Female,"10,000 - 14,000",13768.0
+Less than high school,2014-01-01,00 to 17,Female,"50,000 - 74,999",3265.0
+High school diploma or equivalent,2014-01-01,00 to 17,Female,No Income,
+High school diploma or equivalent,2014-01-01,00 to 17,Female,"5,000 - 9,999",1583.0
+High school diploma or equivalent,2014-01-01,00 to 17,Female,"15,000 - 24,999",3116.0
+High school diploma or equivalent,2014-01-01,00 to 17,Female,"25,000 - 34,999",2190.0
+"Some college, less than 4-yr degree",2014-01-01,00 to 17,Female,No Income,
+"Some college, less than 4-yr degree",2014-01-01,00 to 17,Female,"5,000 - 9,999",1356.0
+"Some college, less than 4-yr degree",2014-01-01,00 to 17,Female,"15,000 - 24,999",2776.0
+Bachelor's degree or higher,2014-01-01,00 to 17,Female,"10,000 - 14,000",
+Bachelor's degree or higher,2014-01-01,00 to 17,Female,"15,000 - 24,999",2471.0
+Less than high school,2014-01-01,18 to 64,Male,No Income,376783.0
+Less than high school,2014-01-01,18 to 64,Male,"5,000 - 9,999",158572.0
+Less than high school,2014-01-01,18 to 64,Male,"10,000 - 14,000",231957.0
+Less than high school,2014-01-01,18 to 64,Male,"15,000 - 24,999",460129.0
+Less than high school,2014-01-01,18 to 64,Male,"25,000 - 34,999",288460.0
+Less than high school,2014-01-01,18 to 64,Male,"35,000 - 49,999",194888.0
+Less than high school,2014-01-01,18 to 64,Male,"50,000 - 74,999",104646.0
+Less than high school,2014-01-01,18 to 64,Male,"75,000 and over",54734.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,No Income,405204.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"5,000 - 9,999",238754.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"10,000 - 14,000",200365.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"15,000 - 24,999",520580.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"25,000 - 34,999",467906.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"35,000 - 49,999",418051.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"50,000 - 74,999",322511.0
+High school diploma or equivalent,2014-01-01,18 to 64,Male,"75,000 and over",227515.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,No Income,343156.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"5,000 - 9,999",255129.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"10,000 - 14,000",278291.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"15,000 - 24,999",556174.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"25,000 - 34,999",371185.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"35,000 - 49,999",495675.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"50,000 - 74,999",423087.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Male,"75,000 and over",495187.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,No Income,181482.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"5,000 - 9,999",86481.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"10,000 - 14,000",104462.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"15,000 - 24,999",233954.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"25,000 - 34,999",218789.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"35,000 - 49,999",357532.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"50,000 - 74,999",682425.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Male,"75,000 and over",1628605.0
+Less than high school,2014-01-01,18 to 64,Female,No Income,723208.0
+Less than high school,2014-01-01,18 to 64,Female,"5,000 - 9,999",239883.0
+Less than high school,2014-01-01,18 to 64,Female,"10,000 - 14,000",189839.0
+Less than high school,2014-01-01,18 to 64,Female,"15,000 - 24,999",277974.0
+Less than high school,2014-01-01,18 to 64,Female,"25,000 - 34,999",120389.0
+Less than high school,2014-01-01,18 to 64,Female,"35,000 - 49,999",43218.0
+Less than high school,2014-01-01,18 to 64,Female,"50,000 - 74,999",14635.0
+Less than high school,2014-01-01,18 to 64,Female,"75,000 and over",2058.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,No Income,670294.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"5,000 - 9,999",266348.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"10,000 - 14,000",272824.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"15,000 - 24,999",453432.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"25,000 - 34,999",318868.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"35,000 - 49,999",245318.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"50,000 - 74,999",128589.0
+High school diploma or equivalent,2014-01-01,18 to 64,Female,"75,000 and over",52375.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,No Income,581907.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"5,000 - 9,999",404151.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"10,000 - 14,000",389764.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"15,000 - 24,999",483518.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"25,000 - 34,999",528017.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"35,000 - 49,999",469153.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"50,000 - 74,999",344454.0
+"Some college, less than 4-yr degree",2014-01-01,18 to 64,Female,"75,000 and over",155579.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,No Income,359264.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"5,000 - 9,999",148975.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"10,000 - 14,000",206941.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"15,000 - 24,999",352744.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"25,000 - 34,999",340611.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"35,000 - 49,999",531019.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"50,000 - 74,999",660048.0
+Bachelor's degree or higher,2014-01-01,18 to 64,Female,"75,000 and over",953282.0
+Less than high school,2014-01-01,65 to 80+,Male,No Income,31263.0
+Less than high school,2014-01-01,65 to 80+,Male,"5,000 - 9,999",40404.0
+Less than high school,2014-01-01,65 to 80+,Male,"10,000 - 14,000",81810.0
+Less than high school,2014-01-01,65 to 80+,Male,"15,000 - 24,999",76893.0
+Less than high school,2014-01-01,65 to 80+,Male,"25,000 - 34,999",32058.0
+Less than high school,2014-01-01,65 to 80+,Male,"35,000 - 49,999",15212.0
+Less than high school,2014-01-01,65 to 80+,Male,"50,000 - 74,999",8569.0
+Less than high school,2014-01-01,65 to 80+,Male,"75,000 and over",2153.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,No Income,28914.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"5,000 - 9,999",44824.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"10,000 - 14,000",66527.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"15,000 - 24,999",116746.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"25,000 - 34,999",80555.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"35,000 - 49,999",64170.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"50,000 - 74,999",40307.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Male,"75,000 and over",36180.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,No Income,27344.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"5,000 - 9,999",15423.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"10,000 - 14,000",45185.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"15,000 - 24,999",101765.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"25,000 - 34,999",96958.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"35,000 - 49,999",83427.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"50,000 - 74,999",53141.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Male,"75,000 and over",42633.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,No Income,19286.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"5,000 - 9,999",28093.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"10,000 - 14,000",36463.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"15,000 - 24,999",103998.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"25,000 - 34,999",74877.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"35,000 - 49,999",120656.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"50,000 - 74,999",154551.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Male,"75,000 and over",294802.0
+Less than high school,2014-01-01,65 to 80+,Female,No Income,73275.0
+Less than high school,2014-01-01,65 to 80+,Female,"5,000 - 9,999",158180.0
+Less than high school,2014-01-01,65 to 80+,Female,"10,000 - 14,000",161001.0
+Less than high school,2014-01-01,65 to 80+,Female,"15,000 - 24,999",60502.0
+Less than high school,2014-01-01,65 to 80+,Female,"25,000 - 34,999",23657.0
+Less than high school,2014-01-01,65 to 80+,Female,"35,000 - 49,999",7261.0
+Less than high school,2014-01-01,65 to 80+,Female,"50,000 - 74,999",4666.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,No Income,57461.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"5,000 - 9,999",76573.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"10,000 - 14,000",152945.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"15,000 - 24,999",161619.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"25,000 - 34,999",61889.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"35,000 - 49,999",55265.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"50,000 - 74,999",34110.0
+High school diploma or equivalent,2014-01-01,65 to 80+,Female,"75,000 and over",7122.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,No Income,32604.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"5,000 - 9,999",135938.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"10,000 - 14,000",85356.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"15,000 - 24,999",203800.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"25,000 - 34,999",95482.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"35,000 - 49,999",64166.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"50,000 - 74,999",63144.0
+"Some college, less than 4-yr degree",2014-01-01,65 to 80+,Female,"75,000 and over",54704.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,No Income,15459.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"5,000 - 9,999",62471.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"10,000 - 14,000",104583.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"15,000 - 24,999",82988.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"25,000 - 34,999",59607.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"35,000 - 49,999",113584.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"50,000 - 74,999",97657.0
+Bachelor's degree or higher,2014-01-01,65 to 80+,Female,"75,000 and over",110009.0
