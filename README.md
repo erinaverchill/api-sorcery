@@ -101,7 +101,7 @@ In order to investigate patterns in CA education trajectories, we examined relat
 * More women in the 'some college' and 'college' categories
 
 
-## How does the job market vary across different education levels?
+### How does the job market vary across different education levels?
 *Exploring job openings for different education levels and their associated wages/income.*
 
 **Insights/Observations**
